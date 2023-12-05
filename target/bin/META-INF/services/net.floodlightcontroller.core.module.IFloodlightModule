@@ -1,3 +1,4 @@
+net.floodlightcontroller.ipspoofingdetection.IPSpoofingDetection
 net.floodlightcontroller.core.internal.FloodlightProvider
 net.floodlightcontroller.storage.memory.MemoryStorageSource
 net.floodlightcontroller.flowcache.FlowReconcileManager
